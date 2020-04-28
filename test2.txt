@@ -3,3 +3,4 @@ feature/b
 feature/c
 master1
 master2
+pick2
