@@ -2,5 +2,3 @@ test4
 123
 cherry-pick4
 t1
-w1
-w2
