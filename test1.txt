@@ -4,5 +4,3 @@ hello1
 hello2
 hello3
 pick1
-merge1
-merge2
