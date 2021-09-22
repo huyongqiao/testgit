@@ -5,3 +5,4 @@ master1
 master2
 pick2
 cherry-pick2
+master
