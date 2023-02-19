@@ -4,3 +4,4 @@ hello1
 hello2
 hello3
 pick1
+test
